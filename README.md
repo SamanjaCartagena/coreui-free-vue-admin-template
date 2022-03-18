@@ -1,4 +1,4 @@
-[
+
 ## Quick Start
 
 - [Download the latest release](https://github.com/coreui/coreui-free-vue-admin-template/archive/refs/heads/main.zip)
